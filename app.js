@@ -27,7 +27,7 @@ console.log(daysLeft+ " "+hoursLeft +" " +minutesLeft + " " +secondsLeft);
 function makeFlakes(){
     let flake = document.createElement('img');
     let dimen = Math.floor(Math.random()*24+10)+'px';
-    flake.setAttribute('src', "./Images/flake.png");
+    flake.setAttribute('src', "./Images/flake1.png");
     flake.classList.add('flake');
     flake.style.opacity = Math.random();
     flake.style.height =dimen;
