@@ -52,3 +52,4 @@ setInterval(makeFlakes, 200);
 // let hour = document.getElementById('hour');
 // let minutes = document.getElementById('minute');
 // let second = document.getElementById('second');
+
